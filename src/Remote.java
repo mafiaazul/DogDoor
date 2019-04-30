@@ -1,3 +1,6 @@
+import java.util.Timer;
+import java.util.TimerTask;
+
 public class Remote {
 
     private DogDoor door;
