@@ -1,1 +1,1 @@
-
+addAllowedBark
